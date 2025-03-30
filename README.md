@@ -128,20 +128,26 @@ Olá, me chamo Lucas Taxiotti, tenho 16 anos e nasci em São Paulo, SP. Atualmen
 
 ### 📊 Estatísticas
 
-<p>
+<p style="display: flex; align-items: center;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=taxiotti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=taxiotti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=taxiotti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+###
+
+<div style="text-align: center;">
+  <img 
+    src="https://raw.githubusercontent.com/taxiotti/taxiotti/output/snake.svg" 
+    alt="Snake animation" />
+</div>
+
+###
